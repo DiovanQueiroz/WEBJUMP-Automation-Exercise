@@ -1,6 +1,6 @@
 # Avaliação Webjump | QA
 
-<img src="readMeImage.png" alt="Testes Executados">
+<img src="../readMeImage.png" alt="Testes Executados">
 
 > Repositório com os exercicios de automação da avaliação para QA da Webjump
 
