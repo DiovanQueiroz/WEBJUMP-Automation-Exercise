@@ -17,24 +17,26 @@ Antes de começar, verifique se você atende aos seguintes requisitos:
 
 Após clonar o projeto para seu dispositivo você devera seguir os seguintes passos:
 
+para instalar as dependecias do projeto
 Windows:
 ```
 <npm install>
 ```
-para instalar as dependecias do projeto
 
 ## ☕ Usando o projeto
 
 Nesse projeto foi utilizado o Cypress versão 10.0.2
 
-Para
+Para inicializar a pagina de testes utilize o comando
 ```
 <npm run cypress:open>
 ```
+Para executar os testes em modo headless utilize o comando
+```
+<npm run cypress:run>
+```
 
 
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
 
 
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
