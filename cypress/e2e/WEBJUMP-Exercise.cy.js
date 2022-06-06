@@ -1,6 +1,6 @@
 describe('spec.cy.js', () => {
   beforeEach(() => {
-    cy.visit('');
+    cy.visit('https://wj-qa-automation-test.github.io/qa-test/');
     cy.iframe('#iframe_panel_body > iframe').as('iframe')
   });
   it('Buttons should dissapear on click', () => {
