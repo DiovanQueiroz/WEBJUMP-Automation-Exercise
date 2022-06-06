@@ -6,6 +6,11 @@
 
 ## 💻 Pré-requisitos
 
+Para visualizar esse projeto localmente você precisa das seguintes tecnologias:
+
+Node versão 16.13.1 encontrado em https://nodejs.org/download/release/v16.13.1/
+
+
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 * Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
@@ -14,7 +19,8 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## 🚀 Instalando <nome_do_projeto>
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
+
+Para visualizar esse projeto localmente você precisa das seguintes tecnologias:
 
 Linux e macOS:
 ```
